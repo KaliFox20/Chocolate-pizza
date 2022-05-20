@@ -1,0 +1,12 @@
+header {
+  display: flex;
+}
+
+header img {
+  height: auto;
+  width: auto;
+}
+
+#delish {
+  font-family: cursive;
+}
